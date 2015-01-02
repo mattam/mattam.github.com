@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Matt's blog
+tagline:          Thoughts and experiments
+url:              http://mattchan.org
+paginate:         1
+baseurl:          /
+author:
+  name:           Matthew Chan
+  url:            https://mattchan.org
+  email:          mynickhere@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/mattam/mattam.github.com
