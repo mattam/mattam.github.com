@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Matt Chan
 tagline:          'Thoughts and Experiments'
-description:      'A place to put what I am thinking about or working on'
+description:      'A place for my thoughts and experiments'
 url:              http://mattchan.org
 baseurl:          /
 
@@ -17,10 +17,9 @@ author:
   name:           'Matthew Chan'
   url:            https://twitter.com/mattam
 
-paginate:         5
+paginate:         1
 
 # Custom vars
-version:          2.1.0
 
 github:
   repo:           https://github.com/mattam/mattam.github.com
